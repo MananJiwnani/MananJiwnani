@@ -11,8 +11,7 @@
 I'm a passionate web developer and competitive programming enthusiast, currently in my third year at IIT Indore. I love building impactful projects, collaborating with talented peers, and continuously improving my problem-solving skills.
 
 - 🔭 **Currently collaborating on:**  
-  [Built It](https://github.com/NSuryansh/Built-It) — A dynamic project led by [NSuryansh](https://github.com/NSuryansh)  
-  [Event Management](https://github.com/tanviieee/Event-Management) — Event planning platform with [tanviieee](https://github.com/tanviieee)
+  [Built It](https://github.com/NSuryansh/Built-It) — A dynamic project led by [NSuryansh](https://github.com/NSuryansh) for IIT Indore's Mental Wellness
 
 - 🌐 **Portfolio:**  
   [mananjiwnani.github.io/Portfolio](https://mananjiwnani.github.io/Portfolio/)
@@ -34,7 +33,7 @@ I'm a passionate web developer and competitive programming enthusiast, currently
 
 - 🏗️ [Built It](https://github.com/NSuryansh/Built-It) — Collaborative project focused on innovative web solutions.
 - 📅 [Event Management](https://github.com/tanviieee/Event-Management) — Powerful event planning and management platform.
-- Explore more on my [Portfolio](https://mananjiwnani.github.io/Portfolio/).
+- Explore more on my profile.
 
 ---
 
