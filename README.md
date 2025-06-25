@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Manan Jiwnani 👋
 
-<!--
-**MananJiwnani/MananJiwnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Student at IIT Indore  
+💻 Web Development Enthusiast | Competitive Programmer  
+🏀 Basketball | 🎶 Music Lover | 🧩 Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a passionate web developer and competitive programming enthusiast, currently in my third year at IIT Indore. I love building impactful projects, collaborating with talented peers, and continuously improving my problem-solving skills.
+
+- 🔭 **Currently collaborating on:**  
+  [Built It](https://github.com/NSuryansh/Built-It) — A dynamic project led by [NSuryansh](https://github.com/NSuryansh)  
+  [Event Management](https://github.com/tanviieee/Event-Management) — Event planning platform with [tanviieee](https://github.com/tanviieee)
+
+- 🌐 **Portfolio:**  
+  [mananjiwnani.github.io/Portfolio](https://mananjiwnani.github.io/Portfolio/)
+
+- 🔗 **Connect with me:**  
+  [LinkedIn](https://www.linkedin.com/in/manan-jiwnani-3b1a8a285/)
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript | C++ | Python
+- **Web Tech:** React | Node.js | HTML5 | CSS3
+- **Other:** Git | Competitive Programming (Codeforces, LeetCode)
+
+---
+
+## 🚀 Projects & Highlights
+
+- 🏗️ [Built It](https://github.com/NSuryansh/Built-It) — Collaborative project focused on innovative web solutions.
+- 📅 [Event Management](https://github.com/tanviieee/Event-Management) — Powerful event planning and management platform.
+- Explore more on my [Portfolio](https://mananjiwnani.github.io/Portfolio/).
+
+---
+
+## 🤹 Hobbies & Interests
+
+- 🏀 Basketball (court is my second home!)
+- 🧑‍💻 Competitive Programming (love a good challenge)
+- 🎧 Listening to music
+
+---
+
+Thanks for stopping by!  
+Feel free to connect, collaborate, or just say hi! 👋
